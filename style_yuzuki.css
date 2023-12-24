@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header, nav, main, footer {
+    margin: 20px;
+    padding: 20px;
+    width: calc(100% - 40px);
+}
+
+header {
+    background-color: #e7e7e7;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #e7e7e7;
+}
+h1 {
+   text-align: center;
+}
+   h1{
+    color:#223a70
+}
+img{
+    height:200px;
+}
+h1{
+    background-color: #ff9580
+}
+.eg{
+     background-color:#ffbf7f 
+}
+.tai{
+   background-color:#4d4dff 
+}
+.saka{
+    background-color:#7fff7f  
+}
+.kise{
+    background-color: #ffbcdd
+}
+.natu{
+    background-color:#ffc744 
+}
+.huyu{
+    background-color: #d6d6ff
+}
+.gaku{
+    background-color: #ffe0e0
+}
+.YM{
+     text-align: center;
+}
+.sk{
+     width:300px;
+     height:350px;
+}
